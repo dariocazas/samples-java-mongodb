@@ -12,6 +12,13 @@ Contains one Main that:
 - Update document adding a date in `menu.date` field (strong typed)
 - Update concrete position in an array
 
+## How to run
+
+```sh
+mvn verify exec:java
+```
+
+
 ## Managing dates
 
 When use low level API, all operations translated as JSON string representation (similar as mongo-shell use)
