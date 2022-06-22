@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
 
-        <mongodb.driver.version>3.12.5</mongodb.driver.version>
+        <mongodb.driver.version>3.12.8</mongodb.driver.version>
 
         <!-- For goal exec:java -->
         <exec.mainClass>dcazas.samplesjavamongodb.minimaldeps.Main</exec.mainClass>
